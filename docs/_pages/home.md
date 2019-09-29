@@ -11,13 +11,15 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+
+  - image_path: https://he-s3.s3.amazonaws.com/media/sprint/cal-hacks-50/team/475490/e253ebdepson_goggles_lq.PNG
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
@@ -25,6 +27,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
